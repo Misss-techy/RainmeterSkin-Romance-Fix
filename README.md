@@ -12,6 +12,7 @@ The Uploaded files will offer a Quick and easy fix to the "Romance" Rainmeter we
    
 #### 3. Replace Files
    Replace the Older files with newly uploaded files. Replace "Weater Info" and "Settings" folder with newly Downloaded files.
+   
    Ex: Delete the older "Weather Info" folder and place the new "Weather Info" folder from your downloads.
    
 #### 4. Load your settings.ini skin
