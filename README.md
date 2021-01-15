@@ -8,7 +8,8 @@ The Uploaded files will offer a Quick and easy fix to the "Romance" Rainmeter we
 #### 1. Download the altered files from github rep.
 
 #### 2. Go to this Folder path - Rainmeter\Skins\Romance 
-   Go to the File Location on your Pc Where the Rainmeter skins are all loaded. Most often it will be located on Documents\Rainmeter\Skins\Romance\. If you cannot find the location, do a quick search for "Skins" or "Romance" on your windows search. I hope you found it...
+   Go to the File Location on your Pc Where the Rainmeter skins are all loaded. Most often it will be located on Documents\Rainmeter\Skins\Romance\. If you cannot find the location, do a quick search for "Skins" or "Romance" on your windows search.
+   I hope you found it...
    
 #### 3. Replace Files
    Replace the Older files with newly uploaded files. Replace "Weater Info" and "Settings" folder with newly Downloaded files.
@@ -17,6 +18,7 @@ The Uploaded files will offer a Quick and easy fix to the "Romance" Rainmeter we
    
 #### 4. Load your settings.ini skin
    Choose your Weather code from https://openweathermap.org/find. You will be able to find the code for your city in the url (after you hit the search with your city location).
+   
    EX: After I searched for london on the Search engine. I was redirected to this link "https://openweathermap.org/city/2643743". So, "2643743" is my city code for london.
    
    Type the Weather code in your settings skin. You can choose either "Metric" or "Imperial" of your Choice. Close the settings.
