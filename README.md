@@ -27,7 +27,7 @@ The Uploaded files will offer a Quick and easy fix to the "Romance" Rainmeter we
    Voila ! You FIXED IT !!!
    
 
-For Spotify, Choose your player as spotify in settings.ini. Replace the Older "Player" folder with newly Downloaded "Player" folder.
+For Spotify, Choose your player as spotify in settings.ini. Replace the Older "Player" folder with newly Downloaded "Player" folder and refresh the skin.
 
 
 
