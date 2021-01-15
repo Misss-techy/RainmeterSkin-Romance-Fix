@@ -1,7 +1,7 @@
 # RainmeterSkin-Romance-Fix
 Hey y'all !!!
 
-The Uploaded files will offer a Quick and easy fix to the Rainmeter weather skin built by ApexXx-SenSei on Devian art. I have also added "Spotify" as one of the player on this altered skin (If you want em').  
+The Uploaded files will offer a Quick and easy fix to the "Romance" Rainmeter weather skin built by ApexXx-SenSei on Devian art. I have also added "Spotify" as one of the player on this altered skin (If you want em').  
 
 ## Steps to Fix Weather Skin
 
